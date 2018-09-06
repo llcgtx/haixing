@@ -1,0 +1,3177 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525c"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "陆  英",
+	"password" : "e14a614c02fde6a4449b9d2045cbd58d7c6a19b8cd374d533473d8e5a20a88b4",
+	"sid" : NumberInt("150104295")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525d"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "张梦娇",
+	"password" : "8947dfcf3b577fd988423f7eeba98421e7fcac027ac8f6353b30aef5f8efe7a8",
+	"sid" : NumberInt("150104296")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525e"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "田万敏",
+	"password" : "e486991911da4abda828736fad152eef31b4c6b15b7fa399cfcd56258000fa26",
+	"sid" : NumberInt("150104297")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525f"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "姚俊",
+	"password" : "e65bb5715129344b123d624d62950e6f526a9b93388a29c6ebc1ec88700548ef",
+	"sid" : NumberInt("150104298")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715260"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "龙开萍",
+	"password" : "a6ffad82d238703e5af4b7837fedf5fde2d308a3718226ee9ee17e897ed7e6b9",
+	"sid" : NumberInt("150104299")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715262"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "陈远琴",
+	"password" : "c5d02a0482efcf7887bfedabde063ef12d21ce58edf2dc0e1a74f582b963890f",
+	"sid" : NumberInt("150104301")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715263"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "刘胡林",
+	"password" : "b795d6e09f349c48fb48a5f0401289762a8626dfd97d6c24c3f49d41a79b21c4",
+	"sid" : NumberInt("150104302")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715264"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "何天隆",
+	"password" : "d0e4bc05b52a92c13f5d1e54ac07a6c4e89cfa94c9a57dabe4977c87cf1bd411",
+	"sid" : NumberInt("150104303")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715261"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "潘程燕",
+	"password" : "83ddfb3422fb9924d4d033cba5eda5aad0c2a1834281c0bd990ca0c9f80a6b39",
+	"sid" : NumberInt("150104300")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715265"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "雷海明",
+	"password" : "c619af3b1fd17c462ab6cc8353900a90e7f9c6f7042d4f4e0329bc76fde2a102",
+	"sid" : NumberInt("150104304")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715268"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "罗羽",
+	"password" : "a4de4e639766c50f105a416b4bc892fa299b6deff6b5ac5c4f45aca0299ad699",
+	"sid" : NumberInt("150104308")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715267"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "梁旭",
+	"password" : "b51539aaaf9412a36d7c5d0d77126b0ad55e8273159972b1c646da73574644e7",
+	"sid" : NumberInt("150104307")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715269"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "袁树平",
+	"password" : "e221dd9bb6b989d82827889c9aa6d00253e8b6d8134d6c3c85241f0b1fb080e6",
+	"sid" : NumberInt("150104309")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526a"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨  宏",
+	"password" : "e5dec877f11c39ec631ee6ced80e567c42c7ff5cb8b976a959b4c439db6b4ec6",
+	"sid" : NumberInt("150104310")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715266"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "陈婷婷",
+	"password" : "e2f2e11c7ab9e1b2fa4775e663b333e13e3eb62bf221685d44447468c5f8458d",
+	"sid" : NumberInt("150104305")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526d"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "罗征明",
+	"password" : "59da1e668fc8fea70f1a3c8b24e2c721f7ca55f232784e3631a77b9dc4c28951",
+	"sid" : NumberInt("150104313")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526c"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "蒋  涛",
+	"password" : "baf1435e79681264e16ce886f776a1cad3c57cb04d214999afc6367d8dae9dca",
+	"sid" : NumberInt("150104312")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526e"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "邰金平",
+	"password" : "d6fb8eceb0a981a3d395ff0668c0aebcb5e315a70ff6bc1086757b7679c75959",
+	"sid" : NumberInt("150104314")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526f"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "龙开飞",
+	"password" : "eff3ddb4a663832e52dbcb4ffc8058d4ac8c9a3dea4065756525d1a5bb07bf17",
+	"sid" : NumberInt("150104315")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071526b"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "阳莎莎",
+	"password" : "985fa8e49c860c26723b66cf4266779a65982068b9438835942101d88c470c54",
+	"sid" : NumberInt("150104311")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715272"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨茂林",
+	"password" : "b20869e444bc65a73cc7ea5a188d314bf3f8bf8d8fd85645ee79f0f93492ba78",
+	"sid" : NumberInt("150104318")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715271"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "龙娇娇",
+	"password" : "268798023c3572f4fb045102d14db326884a4ec835900d2e8527ee6c59fd19c2",
+	"sid" : NumberInt("150104317")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715273"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨秀娟",
+	"password" : "a32d388fa67d7487a38c244870732cd3aaa82f3b6d94f9d8cc0e4cd5c78476b4",
+	"sid" : NumberInt("150104319")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715274"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "罗安星",
+	"password" : "a20528bd4143194db4413928c496a8519d256f8f77ed8ed8569ab13c37bba9f7",
+	"sid" : NumberInt("150104320")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715270"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "梁明艳",
+	"password" : "6bd9c788ee9893a19e7cb8b6c84bfbd01710e07e45eedb914c4f5006b1d3f2b5",
+	"sid" : NumberInt("150104316")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715277"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "欧阳涌",
+	"password" : "5aafb8ea0c2053ee9c7a37e2b7f5ce8d8440a5cf04e76f999732934f2bd0de4d",
+	"sid" : NumberInt("150104323")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715276"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨　飞",
+	"password" : "701d1f449b6c29b299044c62d3a75afad54025389870883869d94c690cbf458a",
+	"sid" : NumberInt("150104322")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715278"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "龙  琴",
+	"password" : "065eeb793e566ec897cead2ae8977ec568530193a571b925c52679989b1624ac",
+	"sid" : NumberInt("150104324")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715279"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "唐邦木",
+	"password" : "7a1b837a3b4ef3defb6f4886cf7dc8d195e2fc69c9b7a4b8db8bf6972ab69522",
+	"sid" : NumberInt("150104325")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715275"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨政群",
+	"password" : "e2b2df6fa24c821ae3b17f2aa1baba8af5eb96cb1fa0ebfd10a68d70dc7ef15b",
+	"sid" : NumberInt("150104321")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527c"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "龙帮菊",
+	"password" : "dbfedbe178161d7c9ea7632c4b2c3e000d52a0185e58583427b2021dcdf83476",
+	"sid" : NumberInt("150104328")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527b"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨光桃",
+	"password" : "b6ddf30f25faa5f832ff6783a7718b692665cd741419914683c29ec7e70c2a15",
+	"sid" : NumberInt("150104327")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527d"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "罗凯敏",
+	"password" : "69bf842cb100d3dffbb29c581269ead701f976fecede59e37d5dc0c83b6746d1",
+	"sid" : NumberInt("150104329")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527e"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "毛昌玉",
+	"password" : "ecd11c316d3d66e28755b8b81de4283d56f7cef3484ccfa36133bc217cc56c27",
+	"sid" : NumberInt("150104330")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527a"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨光兰",
+	"password" : "b94f6cbe161a3f7e44213654ddcadf938773059c0144d1e5dac746ef9971e917",
+	"sid" : NumberInt("150104326")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715280"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "吴锡欢",
+	"password" : "c93bb30369b9f70b01f3f6f43a7fd2af71507b55409891c19ed2b2359bbeff4e",
+	"sid" : NumberInt("150104332")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715281"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "杨  红",
+	"password" : "d8a01bf669160cf72c6731dbdbd0345a3091f297ef114f88e7b878f0f652f05f",
+	"sid" : NumberInt("150104333")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715282"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "张明富",
+	"password" : "64be59cd7059865ba8fd7cddd8db4135c49d1ac733fe59589a684fa4a9a33b6c",
+	"sid" : NumberInt("150104334")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715283"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "罗征发",
+	"password" : "ff5b02faef191d833b138ccd64b8116b831644e793f5ca71505fc35ab1cd0a25",
+	"sid" : NumberInt("150104335")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071527f"),
+	"courses" : [ ],
+	"grade" : NumberInt("5"),
+	"name" : "龙  娇",
+	"password" : "c5292bd45f649ebba2f3b8e8f3432fb23ac881db7610e1ecf13d9f79ad1b8469",
+	"sid" : NumberInt("150104331")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715285"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "冉凯凯",
+	"password" : "64a781d00f5dd05d78438905f96558769f7d20041c76c0b89bd3344401c22129",
+	"sid" : NumberInt("150104337")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715286"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨政舟",
+	"password" : "32dfce99922c9fb0f96f90408c3ee9f681e4552dae9d2850d33fc8235e2a8f6e",
+	"sid" : NumberInt("150104338")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715287"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨武琴",
+	"password" : "80ab5d5d2c51d0f1c5b5dd5bc00ab6beb58fe158f19868d46ad53d471eae9bd7",
+	"sid" : NumberInt("150104339")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715288"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "阳敏",
+	"password" : "7c83a90b1cde772c58fee4414ac29178aa17cccc283dca09064a4554646f722a",
+	"sid" : NumberInt("150104340")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715284"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "陈礼杰",
+	"password" : "4978c89be806c8164cff8dc4c412cca9dd4a08a1a367bb2d34ce013df89bad33",
+	"sid" : NumberInt("150104336")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528a"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "肖红萍",
+	"password" : "dfb1755f99b54a386f82bcf8c5b7b18af859a0edc534647f0859aaca9d6f0bd9",
+	"sid" : NumberInt("150104342")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528c"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨通林",
+	"password" : "a9d37c923624dfa584c6cdf03975adba7ef68a82b8178617948bb99c0466971a",
+	"sid" : NumberInt("150104344")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528d"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨  坤",
+	"password" : "632613f7cd0cbf09057ba6c3cc72cb0a09a38cf78eaa41b299940858bed966f2",
+	"sid" : NumberInt("150104345")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715289"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "左启华",
+	"password" : "dd6157f043300f4db25b9444c739fa234a5176fc1303aba3b2fcb4cc1603a7e9",
+	"sid" : NumberInt("150104341")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528b"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "陈礼彪",
+	"password" : "cfe9bf8053e78a34eca48c7d9c1c1fd1b000645a80f24b6314617d1f137e339a",
+	"sid" : NumberInt("150104343")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528f"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "张  俊",
+	"password" : "e09d2e22b30a888f4cd7dea469254107e5cbf229ef4be9a91ec11c1eee5b82d2",
+	"sid" : NumberInt("150104347")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715291"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨胜敏",
+	"password" : "f0fc1783dbe9464a62e6132d4aa2d2ddf5d6873afed76aace29ddb5b0c08e07f",
+	"sid" : NumberInt("150104349")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715290"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "罗世玉",
+	"password" : "7c391979b990fa8add674ff91399494d1c89031a4af1d43fd1b38406923847c6",
+	"sid" : NumberInt("150104348")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071528e"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "冯朱吉",
+	"password" : "7bf40fb0ad24721539a6a14a26ab85d38e2cd73e18e168f878a13216099d6ae3",
+	"sid" : NumberInt("150104346")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715292"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "张吉斌",
+	"password" : "1cd1f68c662cdef42aa0d755608d733d91fd2259224e6bd965bc6d9290ff23d9",
+	"sid" : NumberInt("150104350")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715294"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "魏丞尧",
+	"password" : "710ebfc6702cd9fb6fd00e6e125125d1e8b31b54866805a6a7e7af3fd296377f",
+	"sid" : NumberInt("150104352")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715296"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "张武军",
+	"password" : "9371462ce11ad333a32cff1a250b3a7e192376b0e3da00ed69b84d2680e232c3",
+	"sid" : NumberInt("150104354")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715295"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "吴朝海",
+	"password" : "43236c0ae72e631ec17580d5e78b3cd12f9f5922d0e3c4224b8ac22aae0eaf94",
+	"sid" : NumberInt("150104353")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715293"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "杨泽",
+	"password" : "4c3d51ed97808cb6a80081d560f7909bbc4d8de860f04dc80c5405764e641038",
+	"sid" : NumberInt("150104351")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715297"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "唐姚",
+	"password" : "17151c4ebc5efed20b57b703df488fc7ff825d7a7e302d175f52736b70f530ee",
+	"sid" : NumberInt("150104355")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715299"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "潘成倩",
+	"password" : "3342c81ce383156c76508d8cf97e45e61044433b739fa3c8bdb2ebf1f5be451b",
+	"sid" : NumberInt("150104357")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715298"),
+	"courses" : [ ],
+	"grade" : NumberInt("6"),
+	"name" : "魏发弟",
+	"password" : "3f073d957467eddaf49ebf0ce50e2a9e68425bb6600e1f75b258be6dbdcb05dd",
+	"sid" : NumberInt("150104356")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715156"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "李秀煜",
+	"password" : "95c40b86ea87e15a9421f3c4ac3571b92bdd20916fc3a975be16070b7ab9ea1a",
+	"sid" : NumberInt("150104030")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715158"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰昌菊",
+	"password" : "0d46e0e365a59afc4ae8c5e77b1231a081ab0b94ecd1bed5c41e522e7e52f159",
+	"sid" : NumberInt("150104032")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715159"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "江显丽",
+	"password" : "3ae9785a7f7478dd288f40f77f204f877957ba2391a8016ed58135e0860e618b",
+	"sid" : NumberInt("150104033")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515b"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙运腾",
+	"password" : "26a3b3358ccf4694f08960d428f1b80cf9fd405cea73b96ed0659b202b200e31",
+	"sid" : NumberInt("150104035")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515d"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "杨  忠",
+	"password" : "0cb7a1a46e4897d5375f3f2450bf5ff58fd5006e5952ac1d680649abddc1e122",
+	"sid" : NumberInt("150104037")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515e"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "关  翠",
+	"password" : "f1a724ee07615541f395bb2709e890f67ebedb6387efe4a52e6c57986479ca13",
+	"sid" : NumberInt("150104038")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715160"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰胜东",
+	"password" : "04bc807bbb60add989681cdba266d3b745ee0061b48919e334dbbfa6a1243aad",
+	"sid" : NumberInt("150104040")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715162"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "魏启芬",
+	"password" : "078afc2a8223310bb362d4254f54ae50ae3c135ab04f3d30a75ca40d0eda1887",
+	"sid" : NumberInt("150104042")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715163"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "蒋徐庐",
+	"password" : "62bdf1e001af2f159b84badfdd19f261211649df0a512bd51585cd2c9b36f51b",
+	"sid" : NumberInt("150104043")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715165"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "尹庆国",
+	"password" : "1e34ef914bb2a0cabba3ffb0f6cf1c65cff0f30b266939382b5e63d70db137e7",
+	"sid" : NumberInt("150104045")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715167"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "蒋兴怡",
+	"password" : "c9dcbca27708240e56fc3b33cdaaf051016b137daf00d914af0b67761167e795",
+	"sid" : NumberInt("150104047")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715168"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "魏肇琪",
+	"password" : "e8c2c4cdad3b21f1932ba4368acfa5f80718432ee669be6783ec10458c4cdea4",
+	"sid" : NumberInt("150104048")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715169"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "雷胜富",
+	"password" : "c379854e4a317763cd707032993821fe6f71f96977496aec40379c564ea4df63",
+	"sid" : NumberInt("150104049")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516a"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "姚本泽",
+	"password" : "9f07b413b997624e8dab52a6b66d5734d541fcf457b392f1c6ddbd275f980dc9",
+	"sid" : NumberInt("150104050")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516c"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "张  虹",
+	"password" : "8bd4ab7431ca4b148013f5403d97045612f0b803c40fd9f26f6ea5eff4ce401a",
+	"sid" : NumberInt("150104052")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516d"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "蒋龙婷",
+	"password" : "07d9707eb51fba0765fc1ce1cd34048a3af01fcd0ad499f60a0c53fca7608162",
+	"sid" : NumberInt("150104053")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516e"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙启锋",
+	"password" : "c0b6eaaafe6be8c969dfc2cb9b8882414dee6ff8dc114ce649f9a14333cdb34c",
+	"sid" : NumberInt("150104054")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516f"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙  德",
+	"password" : "a29d780a5e04c583366294219f3c9aaf18671fa82b8f2986a6f6ddf66d6d3020",
+	"sid" : NumberInt("150104055")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715170"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙运祥",
+	"password" : "33a9d882687daed64e6e009160802673ff38eaa24c3ca9e73fce49595316d7e9",
+	"sid" : NumberInt("150104056")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715171"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "魏啟倩",
+	"password" : "81a2a7b9773118b0638cee341c468acf31c46843f14ef2896e6bf829d09059e5",
+	"sid" : NumberInt("150104057")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715172"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "胡雪",
+	"password" : "a9dcbbe2004d88a201b1aaaf19d9f53f5e7e2006be379a0bdd8999bc569a4ee3",
+	"sid" : NumberInt("150104058")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715173"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "陈红",
+	"password" : "066dde4e2fa9e5b3b1457380ffd40a7c50561a3b479cbebd46ad208a5237ca37",
+	"sid" : NumberInt("150104059")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715174"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "刘太红",
+	"password" : "8c622074b21570b1417f48452940409554f8ea90fe216df8bca30a3b4b139680",
+	"sid" : NumberInt("150104060")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715175"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "曾宪河",
+	"password" : "d1d54816fb362f2d579a3fd4175e89b97c43dd2d81932dd4eb955c4439c76e74",
+	"sid" : NumberInt("150104061")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715176"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邱启城",
+	"password" : "146fb9ccc2b94c3b253d32ac7fe31ed4dc93b2a2d438d45ee32b826ee706a890",
+	"sid" : NumberInt("150104062")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715177"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨慧宇",
+	"password" : "f3240fe410b51096050049c3080b43d7ea75a6bbcda95f9fafcbc1ab09a4dd89",
+	"sid" : NumberInt("150104064")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715178"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "雷胜英",
+	"password" : "e8c08e18307c1492cdf3c98bb42e0ee6b12157b0de1e0276db700c6a1734e96c",
+	"sid" : NumberInt("150104065")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715179"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴  毅",
+	"password" : "eb1cb5b131386416b22b0ab4c77a6763b03cb39a9b019650f732d5f9bd61190b",
+	"sid" : NumberInt("150104066")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517a"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王慧",
+	"password" : "5b8a8bb9aa9ad7bd38ccd8ae5b6621c64d448ddd43372e851e00fa9fc93a8809",
+	"sid" : NumberInt("150104067")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517b"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨  寒",
+	"password" : "55ecc1aa245caa941dca29699c35f43fca14ef69017ac84a0236ec5f3b2566f3",
+	"sid" : NumberInt("150104068")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517c"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "何开龙",
+	"password" : "e587492b0622e059e21f888859a6560d849c3fe6d8daccce527e741838946e1b",
+	"sid" : NumberInt("150104069")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517d"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "肖方文",
+	"password" : "5870581853d979d37eea4b609cf1d1ed590f3fd8e1e7d87c8e7227d97dc9d62d",
+	"sid" : NumberInt("150104070")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517e"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "项林",
+	"password" : "0eb3bbfd16e0daa1f85fe7189a870705584863c2fe33207c3b2e746e5fe0f9c4",
+	"sid" : NumberInt("150104071")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071517f"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨佳丽",
+	"password" : "46062d27cb6b84e0e7b5a6ac4317da1012bdb6b002df591b7a0ba1da63a40118",
+	"sid" : NumberInt("150104072")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715180"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "张花长",
+	"password" : "8f01695c145ef6da1d7ef9e74f518be40eb092d87c1313f59e7cd86ad99dab9b",
+	"sid" : NumberInt("150104073")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715181"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "夏嘉",
+	"password" : "d0355597361a33914686be04ebd27b2f018e6a7e895ab071124fa8190de4b958",
+	"sid" : NumberInt("150104074")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715182"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王映清",
+	"password" : "09dd085a7b787109fb235601db452bc5c7fa325329c84c9a9e1351353ae080d6",
+	"sid" : NumberInt("150104075")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715183"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "石吉龙",
+	"password" : "89ec4452ddab087fa10205982cc49d1a6f8802e0c764643174b2912a4cd25daf",
+	"sid" : NumberInt("150104076")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715184"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "武文倩",
+	"password" : "9c6e17e280e92ac4a81547120807d29a4d8cd7e0893c85928b154bd0730693eb",
+	"sid" : NumberInt("150104077")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715185"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "许海燕",
+	"password" : "85ad5b362b4f5399b94b5b7600e4c3fdc5b873e3a5ff6aee1b68c99dd42c0037",
+	"sid" : NumberInt("150104078")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715186"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "全忠友",
+	"password" : "bf75d7d653f8536a58d814327f850924b9939925219b14e32e10b592346b1bae",
+	"sid" : NumberInt("150104079")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715187"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨小龙",
+	"password" : "71f2b22847f278159a6c399a34bccf468027095008e8739b74d8997e4b3d461c",
+	"sid" : NumberInt("150104080")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715188"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "邰金龙",
+	"password" : "f2176c4a31af70c37d439f75324afb6c577b4e349bd0dd8453b939efcea89a69",
+	"sid" : NumberInt("150104081")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715189"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "江  苹",
+	"password" : "8e8d046f4d9ffd92ef137403856b9132be8a496c4982126b415925cc709d182c",
+	"sid" : NumberInt("150104082")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518a"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "魏启波",
+	"password" : "52442e2bbca8d84f74d14a0a93dac44bdf0229f2242077e1a238675594ec1aca",
+	"sid" : NumberInt("150104083")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518b"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "龙景玉",
+	"password" : "a8d3b0f498c7c93a1205d7b76ff80946a77dcac28aaaef443430a15c159d7805",
+	"sid" : NumberInt("150104084")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518c"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴成隆",
+	"password" : "5954dbd4578ebd107984241f34e6ff46d5007992b4b1e76b2a38d161b660437d",
+	"sid" : NumberInt("150104085")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518d"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "邰林明",
+	"password" : "16b596d16076ffaeb514b890b1a6fc19798b927375f9bceececce575b8aa5e81",
+	"sid" : NumberInt("150104086")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518e"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗洪杰",
+	"password" : "da66585a00b8aebfca25e9d620d639d320f36574335e73f8512e5767d356226c",
+	"sid" : NumberInt("150104087")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071518f"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨文财",
+	"password" : "1f9435aa4a9e61e6dbcaaf99b51e8d2f83135b1e5b1905f40edd7b2999793644",
+	"sid" : NumberInt("150104088")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715190"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "熊天宝",
+	"password" : "a8238f22b35f5d45a492517fc064de903e4240f478d453af30496515389d259f",
+	"sid" : NumberInt("150104089")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715191"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李娟",
+	"password" : "106a70f611aaf8d0320f90bcf97a666cf43dae19f7bac0967927d1dbf14792db",
+	"sid" : NumberInt("150104090")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715192"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "全宗莉",
+	"password" : "d86d38b948b1aee8f50208e00f64fd64424bcebed7bfee240b603b469ddb9c00",
+	"sid" : NumberInt("150104091")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715193"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨兴",
+	"password" : "c34f5b17020711f6bafa3b4816f80a8567f6a743a36083343f05c9c57c56700a",
+	"sid" : NumberInt("150104092")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715194"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "龚虹霖",
+	"password" : "23e95edc51b880bd4d5c8ce6618dd5b1946c355ba5a0cb2b7450492e42247644",
+	"sid" : NumberInt("150104093")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715195"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴  淇",
+	"password" : "0696199025f0023390da390bf2bf6e5b24183daf67145667ffe3b1cae3fa4c18",
+	"sid" : NumberInt("150104094")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715196"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李光萍",
+	"password" : "b66462a8655ce551b57fe9c6981287603ff8781393bce6f83ea1a55eb5b1ce3d",
+	"sid" : NumberInt("150104095")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715197"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王章洪",
+	"password" : "52af3fd44bb3ca386384387d85cc93cb38f65175403456fedfa5b5319ec821f4",
+	"sid" : NumberInt("150104096")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715198"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈  龙",
+	"password" : "985afc2141d20b13462892a4000ef6a5366ae062596b8ff0eba58e52194bf901",
+	"sid" : NumberInt("150104097")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715199"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "龙运旺",
+	"password" : "ab6d968e969e7f9a77108a56566137fe41eed5e94fb991dfa41cfd68f360c370",
+	"sid" : NumberInt("150104098")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519a"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗康康",
+	"password" : "9ccdbe40e6c4aa97707fbe74b6678cb0b0c998982d254fe0cc6fab87328afc88",
+	"sid" : NumberInt("150104099")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519b"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "钱洪丽",
+	"password" : "fc6eaa1e9c4c87d1b45d7dde110392302fdbf584d8c4a7d54aa4a535f4256a28",
+	"sid" : NumberInt("150104100")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519c"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴  彤",
+	"password" : "53267db7a194759f91b17b97987955b3967c87ca5c6698cd955ccb6fc8472a00",
+	"sid" : NumberInt("150104101")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519d"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "程星龙",
+	"password" : "5385a23fdd845736f6690f9cd520cece316be2f37c6581af02f079f00d95f366",
+	"sid" : NumberInt("150104102")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519e"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨光琴",
+	"password" : "59175a1ff472374537df188505c8a0f6c217662308287a87dd1e5763e09ff023",
+	"sid" : NumberInt("150104103")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071519f"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "钟国明",
+	"password" : "8de491b0ee8830b4a6d13f2ba51a79aab8b97e884aa4adcd460fc4a204051ce4",
+	"sid" : NumberInt("150104104")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "孙明斌",
+	"password" : "5ef7c14925fcac53f0efd83b917d02f6648569f0befdbecc3e85b27dcbf552c8",
+	"sid" : NumberInt("150104105")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "余家兴",
+	"password" : "416ce55208f91034cbcc739bb3db46fd3cd003dfb9f78eb692c1c621d1dd6646",
+	"sid" : NumberInt("150104106")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "雷胜民",
+	"password" : "0a592ebf90ac0adafb5dc027baa2220ec570a3a4501fea060832862c0a3c20c2",
+	"sid" : NumberInt("150104107")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李百万",
+	"password" : "08841afae7f89cd453fd0a9301fec232cb19d330ec572d21bab2fb3a77d21795",
+	"sid" : NumberInt("150104108")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "朱溶艳",
+	"password" : "9715d6a0f4d30c243fdb226734182653470d661875c1e6e506cef5e1c7ade1cc",
+	"sid" : NumberInt("150104109")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李万友",
+	"password" : "49f5b3f336ca19cc061c41c0d8df7c06b787bbb9a57f1cc7abf43703f927a2d5",
+	"sid" : NumberInt("150104110")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "龙通华",
+	"password" : "1e3043e2e227afa8b35d9ed8d8471ae52a3955ccb41722b7ad25edd6d17fc14b",
+	"sid" : NumberInt("150104111")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "刘婷婷",
+	"password" : "b26cdeea9b17ec5c90d89cb060b95e15389322cf3c0b0924d68b17e62ed0a0a9",
+	"sid" : NumberInt("150104112")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨景燕",
+	"password" : "3a0dd1b875c1bd2344022283c75866d121c3d8a7588e0e9cf27c79d84f3e930c",
+	"sid" : NumberInt("150104113")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151a9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈功碧",
+	"password" : "1cdf81747dd49d5ae02b05f3b6669084adaebfe1c6ece481c7c4058b13edf373",
+	"sid" : NumberInt("150104114")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151aa"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "邰金花",
+	"password" : "41dc96b4b8641726a1984eb4fd5c0158ed803847267cb89f75d359739eb371c5",
+	"sid" : NumberInt("150104115")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ab"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "周念梅",
+	"password" : "43a4f3e2d0032178443747a328f456ce65ac53f96b665e578b55aaa5590d47d3",
+	"sid" : NumberInt("150104116")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ac"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "潘盛林",
+	"password" : "f5678fa45737a00a7ec49c00ee2ef141634d7b4d80a0ba8675517cf94e29735d",
+	"sid" : NumberInt("150104117")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ad"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "蔡明瀚",
+	"password" : "fe4f67740331a54dd8054e8b7c0ac5d2215a1e32386bf37f71fe075021fa4840",
+	"sid" : NumberInt("150104118")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ae"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "孙明红",
+	"password" : "3a63be779810aab34ceb32feaf1d42c19462f0d182dc949b71ae8ef525f89f14",
+	"sid" : NumberInt("150104119")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151af"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王树亮",
+	"password" : "7a52e8024e3cdb4f26c11a8ae54655114c44c5de2ac39cb4e7d88a2eaac1e700",
+	"sid" : NumberInt("150104120")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨廷彪",
+	"password" : "17f338a041786268df142510393bb0330b8484d18f4a9d19683ae33250d628da",
+	"sid" : NumberInt("150104121")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李明珠",
+	"password" : "cd515eab9bab411087858d8de9ef16a48f3d109155966ef59235f5aa73834986",
+	"sid" : NumberInt("150104122")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : " 唐苹",
+	"password" : "a3f1e72f1b59a2abf3a826d0af5020bc5cf0fb15e9ec9a82725d728846b946e3",
+	"sid" : NumberInt("150104123")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "邱梦",
+	"password" : "d21f911b1a179c321a1f73543b511d85ec2ee9529460f7c0f16fe7ef39eaf6dc",
+	"sid" : NumberInt("150104124")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴春萍",
+	"password" : "8b222e2d7c1cd695b7cf90ed9552f161a0e5c0455df819d92d956fe3300c343a",
+	"sid" : NumberInt("150104125")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴萍",
+	"password" : "17fdecebe7d08e353789026e698cb5a4ce55fe59b4aa5fbd83c06df6f91550d6",
+	"sid" : NumberInt("150104126")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "余慧",
+	"password" : "9843f963c21d62175a55de2ff4f1efe48b43baa41d242e51aef9c2a6aa0671fa",
+	"sid" : NumberInt("150104127")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "邓国军",
+	"password" : "ede2da60a66da31944a90d78a057fe6ac923d148b3c8e0b9fe527c4c307db508",
+	"sid" : NumberInt("150104128")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : " 罗云霏",
+	"password" : "ed0cd214d011b3cc3c7d8f82197e3aa8f5a4f57b1952b139e5ccebb49f6ed3cd",
+	"sid" : NumberInt("150104129")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151b9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴金玫",
+	"password" : "7fab5fc471294242a65dc639d0e37c10e6b8455583ecc77d35c070b76456da19",
+	"sid" : NumberInt("150104130")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ba"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "刘福兰",
+	"password" : "630b0a809318de9c6ad367713291e220b157a39c9c60a9e92e72d146a772fc1e",
+	"sid" : NumberInt("150104131")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151bb"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨佳玲",
+	"password" : "4aec1455598139281ba804e94599390d39eb274836450c066129ee395f2f896e",
+	"sid" : NumberInt("150104132")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151bc"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "潘丽",
+	"password" : "48273f83865918a4dfd89304a9442e0df9ef04ae1b41c9ab0176bb3a53fd589f",
+	"sid" : NumberInt("150104133")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151bd"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李蓉",
+	"password" : "e33e113facacb802c6987172a9e813e2630f3024bf1cf9c9bf67cd6387abd377",
+	"sid" : NumberInt("150104134")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151be"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗小珍",
+	"password" : "48337d9fd287be898c7f5a5630e70cc6cae9d8b11d3f017b7e5c58697ef56fad",
+	"sid" : NumberInt("150104135")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151bf"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "周书同",
+	"password" : "e96065464a25a98a6af1ae44824f6b49187cae8440348723d38a067ce87bb79a",
+	"sid" : NumberInt("150104136")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "蒋倩",
+	"password" : "d5698e151c60b835310de6fa7e7f26deb88683780a567db86baf29d5d5390dc7",
+	"sid" : NumberInt("150104137")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "倪建",
+	"password" : "597f1e725c0c09b4270a21844bb2e2ac96bf942a8a59ae061480e071bf71b808",
+	"sid" : NumberInt("150104138")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈润忠",
+	"password" : "b5400c9fbd65d9fdd3d75edbc6ba64328d3975f6bf492e40dad9d5592782d77c",
+	"sid" : NumberInt("150104139")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "田莉",
+	"password" : "5a3847cccb1e5c9761ba0f31287adb5ab168f351223fc9bc244d3b6c3e9b0bfc",
+	"sid" : NumberInt("150104140")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "刘之祥",
+	"password" : "d1da6f5c27460fd40907c08d140e7a335ae66455d4132c4ed5dbc0dbdbb4e5bf",
+	"sid" : NumberInt("150104141")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王庆黎",
+	"password" : "e641549a6a91f99cfdc8f374919e5aa44868a5d8d677460e14c8ba512cefd6d2",
+	"sid" : NumberInt("150104142")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王倩倩",
+	"password" : "98abbdf40608bb71a4671609aeabf8f6127dfe98cbefd66c16316be26a3b059d",
+	"sid" : NumberInt("150104143")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "涂酉竣",
+	"password" : "0e85b3b602b36ced91510e03991c1b58d3003c75424f9db474245bfd8c3a827d",
+	"sid" : NumberInt("150104144")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨静",
+	"password" : "06a8c6badad37dd84037847615a56fc560ac92a671a5c40c474a55d3f902c159",
+	"sid" : NumberInt("150104145")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151c9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "何川黔",
+	"password" : "f2a0d6397ce9957d7aae84a011f7043d6a5ea77b7b7398ef82ed5374d32a8a68",
+	"sid" : NumberInt("150104146")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ca"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "张正新",
+	"password" : "48edea32a7f5d25d13c3a3008a06e8dd4f983ff494aa0b640b8412e25bd77b3e",
+	"sid" : NumberInt("150104147")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151cb"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗雪立",
+	"password" : "818fa12658e670e2682231c49e9c52473b7ea6beeb29ce564de131b99ca2a6c4",
+	"sid" : NumberInt("150104148")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151cc"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨武秦",
+	"password" : "9ae321a5cd3adc9671ba4b2658fad6ceb72a9fd9379878b83eff79408fe68043",
+	"sid" : NumberInt("150104149")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151cd"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "张兰燕",
+	"password" : "53d48c56384bfa5a9cd6ae0ffba5632fa83ef7d9179ae841f22a0ade556b66f1",
+	"sid" : NumberInt("150104150")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ce"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈守西",
+	"password" : "aa348e700b7374e3b4af45bac31321152f3d9144f87d1b15bbf02d0d7e0129c1",
+	"sid" : NumberInt("150104151")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151cf"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴国安",
+	"password" : "cb613e349c58681c58b6666c4b2af7a33ba0063e14a7fb4d1c902da7fbcd2799",
+	"sid" : NumberInt("150104152")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "袁阿明",
+	"password" : "b11aba0cca94da62a05bb93972123f5103eddbc6a445f49a7fe82763d13f6730",
+	"sid" : NumberInt("150104153")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "潘燕",
+	"password" : "3fb6c07a35e97645264db4c2e83c09bd225a05a4d86650fc14171d2859ce47df",
+	"sid" : NumberInt("150104154")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王成龙",
+	"password" : "303ddb8dbf9764df297bae2df95d0fba2239a2996314934c06e46d5e062e49c5",
+	"sid" : NumberInt("150104155")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨通发",
+	"password" : "a403abf14324936183a641bc148b9a16863b7c2abda8a2f45868cb857040110c",
+	"sid" : NumberInt("150104156")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "秦昌林",
+	"password" : "80087391f06c79ad2f463db14df32fadf14a9ed138b0ae93e086a7a3b4acfb8c",
+	"sid" : NumberInt("150104157")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴昭东",
+	"password" : "88a58077020d77b0ee80b9641832e54fc48276afe304df06495a24ebfd283526",
+	"sid" : NumberInt("150104158")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "田甜",
+	"password" : "385961fe5eede6db548129508bf8cdfb0248d7b39488127eab88ab249f2fca24",
+	"sid" : NumberInt("150104159")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王恩珍",
+	"password" : "986cd645d49a750e913528495428bcd885ace1b9c2df0e50181457f23a19343a",
+	"sid" : NumberInt("150104160")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王木林",
+	"password" : "763531e8168e23dba90a5bef236b6dae99be7ad4023696d3c247a6ab28e9fc25",
+	"sid" : NumberInt("150104161")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151d9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨文彪",
+	"password" : "968dae27d6300683fd4cb9acf8f0b28f632a99d1b3de3aefd717f1ef913a4466",
+	"sid" : NumberInt("150104162")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151da"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "孙隆军",
+	"password" : "3a12a905ae70feae57f1100ea75e3d41145038e47627093761c58883691f6cbd",
+	"sid" : NumberInt("150104163")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151db"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨棋",
+	"password" : "f7aa92c6914f5874e53366346608266765ad89371b3bbad9d4afd3b0318dcc51",
+	"sid" : NumberInt("150104164")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151dc"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗俊",
+	"password" : "46c817242d083d9f8097582f983483ee8f2a4eba14e6d5934e4ff1a9bf45282c",
+	"sid" : NumberInt("150104165")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151dd"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨双",
+	"password" : "741b9cc1cee6ecbca1a7043b0c45135605b94c6554a938e858a0dc477654d827",
+	"sid" : NumberInt("150104166")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151de"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨佳淇",
+	"password" : "9b68772d691a28e2de919d7d89e756bf7b42c44a5a41a359c10392156b0a64bc",
+	"sid" : NumberInt("150104167")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151df"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "舒琼琼",
+	"password" : "e9769486a54a71e4eddbde31d241f91720c1de8dccd550fefa72aeca2cdd2652",
+	"sid" : NumberInt("150104168")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨昌银",
+	"password" : "97710350d2d76e22307c38daf4846f5d28a527fedcb0fc1ca1c88ec001a09245",
+	"sid" : NumberInt("150104169")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "黄良发",
+	"password" : "0e3da0dd40c310e1605f340b2075d554202a72f571a15960c792324956a4837d",
+	"sid" : NumberInt("150104170")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈礼良",
+	"password" : "f870f2d13da92e2ca077bb928d3895d24fe6e57384d7b7913e017ab27b04afc4",
+	"sid" : NumberInt("150104171")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "向浩",
+	"password" : "a35f37a9d463b3d0f5586071d5992cfc3545bb20dd26bf70dd297ca91883487c",
+	"sid" : NumberInt("150104172")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "姚鑫华",
+	"password" : "62d6673877d849c80a9945b47b53f1dc18046ddee13a609c7c02bd685bfa4cf5",
+	"sid" : NumberInt("150104173")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "梁高彭",
+	"password" : "dcb9ce91bfed3307b305f098cb014f9987a558886508adaf51d10fdbf7a4f2c5",
+	"sid" : NumberInt("150104174")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "钱毕辉",
+	"password" : "6201472129c7c2a93e0c811cdcc059a321348e9cdaf960712d9c28773f8817a0",
+	"sid" : NumberInt("150104176")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "刘凯军",
+	"password" : "280a62a7373142f2dd686e488350733c1790253a6be21a902fb56ffa1153de90",
+	"sid" : NumberInt("150104175")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "姚云涛",
+	"password" : "46d7d40af689168d2599f0d96226ed5c60f7c9f9bd024da0f82c0c89761e81c0",
+	"sid" : NumberInt("150104177")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151e9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "潘明",
+	"password" : "269ab875b1dba5f2ba341e2ee966f1d432f479d811f5d3ad115cd42d6c5ce5ae",
+	"sid" : NumberInt("150104178")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ec"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "舒孝洁",
+	"password" : "98dc83b052067cc7f71e9224c70b192439039217e09b8f95ed1483c649160eba",
+	"sid" : NumberInt("150104181")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ea"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "梁厚菊",
+	"password" : "5dd07e58794c7efef7b746e6a05f700b44f23e3927b48f9fa99f4c3b60fe010d",
+	"sid" : NumberInt("150104179")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151eb"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "梁祖香",
+	"password" : "ad77de44f8b3c2700a6747d49324e6480061a0fd1e082b1cc028d69406a204ac",
+	"sid" : NumberInt("150104180")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ed"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "舒志贤",
+	"password" : "42bc7e4c7c45f11b9650b58d014a89009d120e70e84ee74848c50195a533edc7",
+	"sid" : NumberInt("150104182")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ee"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨代林",
+	"password" : "2cc538fd788aabc918d64e7e03776b8ab96e16724cec0aa499acef0e4e63aacf",
+	"sid" : NumberInt("150104183")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f1"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "姚行",
+	"password" : "9547b8c6c04626c5c2f069f4cfc1b19e51f0a2de5f9279200a2a8578b2ac3c68",
+	"sid" : NumberInt("150104186")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ef"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "郑洪",
+	"password" : "d8601ca30c7d99c057661bfd84fb88a5ea3e1f4c9611e464245754f14d2edd86",
+	"sid" : NumberInt("150104184")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f0"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "胡伟",
+	"password" : "df3a0ef6761c0545586c5130951e43a76667ff7e8b712103d346b805fcddc591",
+	"sid" : NumberInt("150104185")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f3"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "宋登辉",
+	"password" : "ed199497c9d3985d10e58e7f11502728498168e34089ce2157747ced91f75c28",
+	"sid" : NumberInt("150104188")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f2"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "龚红恋",
+	"password" : "bbcb5c53fb9f1abd58d6f0bc24e8c1bd1647c7ad8cabb8fe23a3436c31ec484b",
+	"sid" : NumberInt("150104187")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f6"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨福青",
+	"password" : "aece08c72d844ec1386fc0e45f691df166b044c2dbc804ed100937a78b69bbeb",
+	"sid" : NumberInt("150104191")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f4"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗冲",
+	"password" : "fc55c8ebc1e4900f77fecc4677ea6f1d8ce0ba9c7edec12b106b7eba91eb8aff",
+	"sid" : NumberInt("150104189")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f5"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "熊平",
+	"password" : "c74129b5e318f35755383f98e51ee421fa25f9fdcca4532fc21c93f53d529e33",
+	"sid" : NumberInt("150104190")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f8"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "喻翔",
+	"password" : "31c4ffd82a6ba39d65f9cfa74524b0f646348de7afbbfc69a5427f4816857ddc",
+	"sid" : NumberInt("150104193")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f7"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "王丽",
+	"password" : "4e17f8ce00f41c3dadb01f77eb5ce41a8fc37948553c66759cdbc63ed1598526",
+	"sid" : NumberInt("150104192")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151fb"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李梦娇",
+	"password" : "e12b34d43d75c3bcfeef987ac7ba38b9a532f18df0284eb49f27d20cf3405809",
+	"sid" : NumberInt("150104196")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151f9"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "廖俊",
+	"password" : "db015867002c3e5f31ad27540cf2cf7f329ddaece53ccfb9ed58f86e4b101764",
+	"sid" : NumberInt("150104194")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151fa"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "谭翻",
+	"password" : "9452e745cf8187df0e95c33a33b037fd4e4ee9d5a2ec42ff45d695f8a7c6c2bc",
+	"sid" : NumberInt("150104195")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151fd"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨志华",
+	"password" : "ff10f6bb2c22c6f463ffbbd3869bd7a6adc50e74c98910f48048e2d46989622e",
+	"sid" : NumberInt("150104198")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151fc"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "江显斌",
+	"password" : "6f5e5786202094a0a960c4551376ca76dfddb941ada907e3655bbccbc8170903",
+	"sid" : NumberInt("150104197")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715200"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "潘浩镜",
+	"password" : "5e55fa570a6e62d5595da2633a3bf3b7915784042620be9b89ad011958e12b4b",
+	"sid" : NumberInt("150104201")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151fe"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "陈东",
+	"password" : "c50ec4ca3cde84f7e3185c7b0edcb79c7019b03cf7b2e220c00bea68323b6bb2",
+	"sid" : NumberInt("150104199")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e707151ff"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "张良德",
+	"password" : "91c50f47278fab196c14dec4fa8b638ecd958b757dda82ece79b093acab6573e",
+	"sid" : NumberInt("150104200")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715202"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "肖芳银",
+	"password" : "4e1805aaf6baf3bf42798c9b556e9e991b15e870e40142433cf4d73b434063b2",
+	"sid" : NumberInt("150104203")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715201"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "吴应才",
+	"password" : "77ae2313773198577937c1bc7c50ddc9780a34c577351546974f63a5d18fa270",
+	"sid" : NumberInt("150104202")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715205"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "冯朱康",
+	"password" : "5b0c4a91e5356d36960b6b94cab1b4e7dfeefb1012290e66ff3183c27eab501c",
+	"sid" : NumberInt("150104206")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715203"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "魏万文",
+	"password" : "4dd15a58d3268b7cc9aed1e196f23fa01be425257921de6961db93b379f9e2e5",
+	"sid" : NumberInt("150104204")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715204"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "林琳",
+	"password" : "451c1bb5e8b46951ec1cf2d3aa71128e263c3c64afa192f78a390b602289ff52",
+	"sid" : NumberInt("150104205")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715207"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "罗  波",
+	"password" : "1fdb34520e1bc4e8de1924a94a5beada5baff3a71f87fee8f1a1bce6b1daa8ad",
+	"sid" : NumberInt("150104208")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715206"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "宋洪静",
+	"password" : "66b91d684950a88081fae55634a568da31cd1581e2b2a8ae2e6d3d74d1b2a615",
+	"sid" : NumberInt("150104207")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520a"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "涂有斌",
+	"password" : "29a1179f5a58654a4e1e52956a91faf9331b1e34cbb1325c903ff073a5f9a0f3",
+	"sid" : NumberInt("150104211")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715208"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "杨  婷",
+	"password" : "ed8f156e85a2a7aad66ac4b141ed29d12e19d0d96f31c9f3902d35324bbb4b94",
+	"sid" : NumberInt("150104209")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715209"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "余  粤",
+	"password" : "ce73d81f61dde98ee671cfdb235cf860eaf6453e35ed173197dd8ea2b8bc3838",
+	"sid" : NumberInt("150104210")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520c"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "陈传敏",
+	"password" : "781bcae031bb566c1ae89129d3106e69fb8fa5e60d6122853b9d56b6c5778b07",
+	"sid" : NumberInt("150104214")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520b"),
+	"courses" : [ ],
+	"grade" : NumberInt("2"),
+	"name" : "李  敏",
+	"password" : "edc4733d4e9ef38fe18e9da3319d4c529fa0478f0d71e4efb94183d8eff947a0",
+	"sid" : NumberInt("150104212")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520f"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "吴金华",
+	"password" : "68d7a4548b91a5db0943989204622d179672a3b174fe7f77b8c5182e178d29be",
+	"sid" : NumberInt("150104217")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520d"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "罗世元",
+	"password" : "5de13c2714816e9eced7cb52c83d5b365ad4681fb41b88423acb023200fc220e",
+	"sid" : NumberInt("150104215")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071520e"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "徐晓云",
+	"password" : "2561201822d6ffd8a10af5c186971a014048fad6387e6693f11ee0a24dbd68df",
+	"sid" : NumberInt("150104216")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715211"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "左  念",
+	"password" : "54e7d729db4bbd94056342f7ac4bc9faa8654c66a2eb18d641b1f86501d98d7e",
+	"sid" : NumberInt("150104219")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715210"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "全大池",
+	"password" : "2a0ec19d486cc6c482f25c8d6310c976997b9cddd6d87526b1200ae4364026f1",
+	"sid" : NumberInt("150104218")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715214"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "杨武元",
+	"password" : "3e3837631615c762fcbd1f1d23cf0337e89446f7d78691b43ef7bf654c5a2dd1",
+	"sid" : NumberInt("150104222")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715212"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "陈  俊",
+	"password" : "13a4516c5e8c46fbb836cbd979b206531f29c0e712237f1865d46f76ce8a4d56",
+	"sid" : NumberInt("150104220")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715213"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "张文静",
+	"password" : "8aba6ffb581fd5baae66f40cddb4001a65922be88bf9392fdcb4e4550f686e17",
+	"sid" : NumberInt("150104221")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715216"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "陈礼波",
+	"password" : "4babcaa87db1b514fb9338dbe78246ed89fedd67e6de07f74c2dcc6aa7cb11f0",
+	"sid" : NumberInt("150104224")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715215"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "钱  露",
+	"password" : "8f8fdca50f0bcfc9241607924f5282609bf611af9b8381f9c67f845f4e81a686",
+	"sid" : NumberInt("150104223")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715219"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "杨雪梅",
+	"password" : "a28988ce37baf281c71292359e1f378ff4ff45ab16b61f444eed412ffd227d87",
+	"sid" : NumberInt("150104227")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715217"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "张志桃",
+	"password" : "8d3f3241d4f028b0a40503f42a63f62a177e7930fd2d5f06a2942926e8a76f24",
+	"sid" : NumberInt("150104225")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715218"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "夏千萍",
+	"password" : "043a3365d80edfb6e7cd55159fdbba6953efeb6be48107a1272f9a366f5cf644",
+	"sid" : NumberInt("150104226")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521b"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "刘太群",
+	"password" : "a5184344f82a87af1c32050eece908614b816f42f4ebc5bb27538bebca83b610",
+	"sid" : NumberInt("150104229")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521a"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "文正启",
+	"password" : "6316a7500fef44127a4102476267881b91d52b26116d5b7c4e379b8f5f3e5180",
+	"sid" : NumberInt("150104228")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521e"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "吴  伟",
+	"password" : "cf09513f8d2b7e2a476f5bbbc0f6adfafd142782b2d55b0ab0846d0e6718af4d",
+	"sid" : NumberInt("150104232")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521c"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "杨廷先",
+	"password" : "b8f6ff5c2b49412744a0ab092c14c4d89e0b6d9b97c21e317b3dbd0d31f14147",
+	"sid" : NumberInt("150104230")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521d"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "钱  瑶",
+	"password" : "a32984c5a69111b6575b7142e80bed3cfc5d5c281f54e134f89f0dec988b2926",
+	"sid" : NumberInt("150104231")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715220"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "唐仁波",
+	"password" : "dac13bb7e0e369957d04ac4e3cbb37fb6652ef16b9b44b313cc27839395845d3",
+	"sid" : NumberInt("150104234")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071521f"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "曾计香",
+	"password" : "45684068cd9ffda2f1de050d74b719cf103a5c95ed5f613fd8c84910bb2d1c7a",
+	"sid" : NumberInt("150104233")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715223"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "关火英",
+	"password" : "f1fb81f4c139aac7cbd46712954ca7be0161d281e84612f2a8b472352dd8b92f",
+	"sid" : NumberInt("150104237")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715221"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "杨  侦",
+	"password" : "40a090533206fdfcadf6d7f0e541a7af2cec9e4a1856f12921851b90d7fd9029",
+	"sid" : NumberInt("150104235")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715222"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "叶主义",
+	"password" : "45c5a84579e05a885ae04f4c3389327399e2872f5da93dc410b49454c3befa54",
+	"sid" : NumberInt("150104236")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715225"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "周海燕",
+	"password" : "d7b6d4fbb7bc1b7fdf14713c9a8d4a83f4fb990e724e871b7ec32bb9bfab64d2",
+	"sid" : NumberInt("150104239")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715224"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "李朝海",
+	"password" : "7cd32678cadf76609192364ab799bcbce0805e807310e56105d6447bd00db7c9",
+	"sid" : NumberInt("150104238")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715228"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "黄  浪",
+	"password" : "d2c8284e8065355f1a43d298aa7369d922e8627bd6b4aeeb9f27003bf1e40d42",
+	"sid" : NumberInt("150104242")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715226"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "全宗权",
+	"password" : "50883d74b7ca8e41770d3a59368cd619037f3c089d6090f32cf391e552abd543",
+	"sid" : NumberInt("150104240")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715227"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "龙莉莎 ",
+	"password" : "176a286fd4125d881c3a437de9d598c819d81c8d12f02ab75fdbbf64f2a9a126",
+	"sid" : NumberInt("150104241")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522a"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "叶祖培",
+	"password" : "d5746a5dd4ea7e5d0df505545833bfc430f93da6d4c44af86230a9d788013e6a",
+	"sid" : NumberInt("150104244")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715229"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "冯朱娇",
+	"password" : "1dd4f20b2b09a4f94c979116f5ac3471b5abe43827768baaf2e078b3107851aa",
+	"sid" : NumberInt("150104243")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522d"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "龙凤美",
+	"password" : "2f920b678e866b41bd4b056e058ec4a5204eba893120468cd37077b1f15aa570",
+	"sid" : NumberInt("150104247")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522b"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "唐亚萍",
+	"password" : "bc57d63162cd8ea1ccfa5b816bef38776c819a237d81002845e5ba1c59700117",
+	"sid" : NumberInt("150104245")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522c"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "龙  旋",
+	"password" : "cc779810b8d093ddc85428aca07848e6cd2592ab55c656c593781dd5d3bbb0f1",
+	"sid" : NumberInt("150104246")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522f"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "刘兰兰",
+	"password" : "11ea8c5d9bb201893cf8c5672122c04ce50301f568792c2744fb2bf89ae499bb",
+	"sid" : NumberInt("150104249")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071522e"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "代祥龙",
+	"password" : "000dcd1d56904e5ea3f7df3c40123a4c3015e91bd6203bb2e4b067bd0ab065c4",
+	"sid" : NumberInt("150104248")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715232"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "全宗普",
+	"password" : "5fa0fe5e2beeda054f1a1cc2948cd24317a6dae629169ddf908fcd2bbc4207d5",
+	"sid" : NumberInt("150104253")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715230"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "龙宪杰",
+	"password" : "52eab8caaed5647535927ca9e5612927b050d74420a41687c048482be0fa8448",
+	"sid" : NumberInt("150104250")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715231"),
+	"courses" : [ ],
+	"grade" : NumberInt("3"),
+	"name" : "姚元琼",
+	"password" : "3720e41baa657873f761291b10b9a01bede14cf176bc158a86738b0d470a0717",
+	"sid" : NumberInt("150104251")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715234"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "雷红燕",
+	"password" : "0374a9afc01cad81194df3aacc43b8c835d05b8161058474b969cd8ca68b6253",
+	"sid" : NumberInt("150104255")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715233"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨通辉",
+	"password" : "604d706d4d4ebf1575580aba358bbaab58691f564a232b9bec7c18f3048fb598",
+	"sid" : NumberInt("150104254")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715235"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "潘成明",
+	"password" : "49be83f4ecb13a253ca38d9e9c2bcf0a52437dab552c0da8d99f9149fe8e7cf4",
+	"sid" : NumberInt("150104256")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715237"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "梁绍伟",
+	"password" : "13f22fc9c4a10d16e7a670f7c9bc70cf09b5e790311b325b560c6f46f5fbec88",
+	"sid" : NumberInt("150104258")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715239"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "龙景航",
+	"password" : "e2a818db08e08d79dcf29e693106bc39f75d9b73035df352fea773508b6874c0",
+	"sid" : NumberInt("150104260")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715236"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "徐  婷",
+	"password" : "c6fdce5ac5d87c29079b661374319208669c599819facf3be6ec99ab1066c04a",
+	"sid" : NumberInt("150104257")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523c"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "唐有菊",
+	"password" : "70819fd2df25aebe8d7b0346eb68b8bf6a295717fc6f6a648a63002837f7472d",
+	"sid" : NumberInt("150104263")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523a"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "毛瑞进",
+	"password" : "fd02467d99cf127023e62d58b777a8b2a1478222499ce807b0abea1cf933c509",
+	"sid" : NumberInt("150104261")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715238"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "冯朱婷",
+	"password" : "bd88f25f1eb2022dcf172a8c93346b363b154ef901ecb534fe59d3345fd085ad",
+	"sid" : NumberInt("150104259")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523e"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "田永珍",
+	"password" : "c33b81fe7f6e5f1edceafb113b2971439913406a8ff23d70b4cda65af4835d48",
+	"sid" : NumberInt("150104265")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523b"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨通瑞",
+	"password" : "19d820eee129416a4370bc1b4f0082fc7ffb74f2815d92e207233097ea836cd9",
+	"sid" : NumberInt("150104262")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715241"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "吴秀权",
+	"password" : "4d161699dfc51f52ec0f5e6962370892019f864909e8ef5f27ed10c866a45df6",
+	"sid" : NumberInt("150104268")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523f"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "熊天才",
+	"password" : "7c91159f7693b9e1af3c13ca8402164a2882198291f81d5041995efcd1a09765",
+	"sid" : NumberInt("150104266")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071523d"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "张明福",
+	"password" : "0d9529cd5c6c3b9ba0b50af1ac649519ee445c2cf5bb0693047ebe0ddce011a6",
+	"sid" : NumberInt("150104264")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715243"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "龙开兴",
+	"password" : "e1cc616b791dc0a0eacfdb30258ef8c97273436e29d9b669503de326688d4367",
+	"sid" : NumberInt("150104270")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715240"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "龙敏婷",
+	"password" : "c47f98409114f432192149fb5be359b9ffea586565e47c03362d78c67330ed11",
+	"sid" : NumberInt("150104267")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715244"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "李德群",
+	"password" : "a75cb155808f0bd2128d4eefa07faf58032b1e943f283e594f30613cba9e4b97",
+	"sid" : NumberInt("150104271")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715246"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "张安成",
+	"password" : "a21a8a354953ecb25817a70d821716c27c0071642166a3c52e10a81e6e24bd01",
+	"sid" : NumberInt("150104273")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715242"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨文秀",
+	"password" : "fdd1cc3eaa012fffcfa84872bfa9b3c832a03e8d1e9a089f0378f55928e6f408",
+	"sid" : NumberInt("150104269")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715248"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "何鑫宏",
+	"password" : "726c700a4742a5e55f09f9f6ffb16d9e40480220dea2f08bcb1a139d34648d5d",
+	"sid" : NumberInt("150104275")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715245"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨福忠",
+	"password" : "28f8e7108f63838f3b179881a7f18673e315f00e59418a6f3cf4229d2bdce7b5",
+	"sid" : NumberInt("150104272")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715249"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "唐有超",
+	"password" : "5574ec980258cb239a2b954412e13d7f05b995d163f3473bf3a012339610ffe5",
+	"sid" : NumberInt("150104276")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524b"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "江廷涛",
+	"password" : "64b8d61bd6b7f6e71025a2f6604b1c0906558a74431551764b84648f77be8041",
+	"sid" : NumberInt("150104278")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715247"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "陆才军",
+	"password" : "965b0691a27aac31b347473bbb9383a6766a364c2320be7607260de82996b858",
+	"sid" : NumberInt("150104274")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524d"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "潘成坤",
+	"password" : "8423e61196111d9b8e43c36d2949927619477e52c42b552e0ed741201b8f2229",
+	"sid" : NumberInt("150104280")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524a"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "全宗品",
+	"password" : "1b013ea1687401db64a5335a1d5ff4e031c9bbd0b637ec18e7a911c59b665345",
+	"sid" : NumberInt("150104277")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524e"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "尹世群",
+	"password" : "e146a2056f6ad27e3733c9727827c2de8683397fceedc67d95a5f161a6976a3e",
+	"sid" : NumberInt("150104281")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715250"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "蔡明露",
+	"password" : "ee70aad531486207f56aedaacf17ff1996bcf2c09fa9edeffebbeaef85dad1c0",
+	"sid" : NumberInt("150104283")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524c"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "梁  强",
+	"password" : "3efeadd9d3d457bdd81f31a8d0f46af5fa9d63ffe86cbbb0c2f2b896989ce54c",
+	"sid" : NumberInt("150104279")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715252"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨  柳",
+	"password" : "f9acd08fade37689673950d9013c48bfef347a6d130d439eda9cc686f4b2d783",
+	"sid" : NumberInt("150104285")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071524f"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "袁  浪",
+	"password" : "8d00d6acf68e0b54a1d44be2c375a2f691bbb9cdbe07d8cd50f05756e5a4a3e6",
+	"sid" : NumberInt("150104282")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715253"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "张灿怡",
+	"password" : "130088df338f7d7f0280ba845b02fc2137c60da842c6dfa25166e2cf47a5626e",
+	"sid" : NumberInt("150104286")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715255"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "邰世兰",
+	"password" : "d49734709b8cbe200c671a73514398050e971380b787f9c8deb62e6f65c2efa0",
+	"sid" : NumberInt("150104288")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715251"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "吴碧香",
+	"password" : "38d486e577ee920cf91d473001a46a74c47fcf5902e512573a7dcb0c872b1f35",
+	"sid" : NumberInt("150104284")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715257"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "毛佳丽",
+	"password" : "a73704dd443a40cf5bec82732a87a3a7daf203406253b04645109d16fe44b6a5",
+	"sid" : NumberInt("150104290")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715254"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杭念念",
+	"password" : "8eba1be1b588b9b53eb42086748092193139c564df7e0fdc4925667ec4110a87",
+	"sid" : NumberInt("150104287")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715258"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "杨宇",
+	"password" : "72c103f7b2e55872f52f6859cc0d0e5536644e5eda6313f16c5328d68bf801ee",
+	"sid" : NumberInt("150104291")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525a"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "魏启波",
+	"password" : "77600b344101847322497fceb388bc365b46cdd51df7c19727c917a66c00441c",
+	"sid" : NumberInt("150104293")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715256"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "蒋子文",
+	"password" : "fe6e7d919272379dc488a2395af27867ff974a6bd2a5c857d4970d5bb0f93c86",
+	"sid" : NumberInt("150104289")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715139"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "雷胜珍",
+	"password" : "b9ba5e165c1bacbd8086e2c8ea5f9da4405fae4f40935cc871db6a5f1a76523c",
+	"sid" : NumberInt("150104001")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715259"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "李  丹",
+	"password" : "d52a722d27bed8ea7d76681bd6d9a094608240e75a1dc76cb771116a6735f111",
+	"sid" : NumberInt("150104292")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513a"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰秋荣",
+	"password" : "4d5f02bc635abd4e91756a07406986579c6ba31fae558e1993a154c40da1b525",
+	"sid" : NumberInt("150104002")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513c"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "刘莉",
+	"password" : "e12918ad97e89a457974513d3b336a8005d9cf3baa3531f04e10d3b50c54d03b",
+	"sid" : NumberInt("150104004")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071525b"),
+	"courses" : [ ],
+	"grade" : NumberInt("4"),
+	"name" : "李朝才",
+	"password" : "8af3b38112e57dfb6962b0c09eabbb42ce73064f2915f498776188edf14a2d76",
+	"sid" : NumberInt("150104294")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513e"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "穆显钰",
+	"password" : "ddd815b01e330fe7f11451ebae673c1e1fea7940c635de033bb39df4c3cb0d5d",
+	"sid" : NumberInt("150104006")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513b"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "左惠",
+	"password" : "ef5d036e4b0ddeb14ee836eb5787f87714d08bffce5feeaaada926fe5f5cb666",
+	"sid" : NumberInt("150104003")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715140"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "杨文涛",
+	"password" : "4239897c92b2990e0ffb4dcd86369da83e32f4dfe920ed870078f87dbbe2242d",
+	"sid" : NumberInt("150104008")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513f"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "高杰",
+	"password" : "9cff81bf05eeea2eaad931bd4e99da2267fbe30647521c0904726c3c04a6fb08",
+	"sid" : NumberInt("150104007")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071513d"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "潘巧丽",
+	"password" : "cc106ef43922c9f1454848a9696f74076a28ebcd48fed830b36edb524a44391c",
+	"sid" : NumberInt("150104005")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715144"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "陈礼才",
+	"password" : "1d3aebd9a23245d00d2495499dc3b42401d1831a833abdc0c2beb1b94b4a7d87",
+	"sid" : NumberInt("150104012")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715141"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰秋明",
+	"password" : "f8215c4bddeb892c4f960e0997f7b015d9205f5a47377d22b2e42a8d9c7154b1",
+	"sid" : NumberInt("150104009")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715145"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙水清",
+	"password" : "a71e5ad56cf4e8b7b5b1b8495b72e2d0aeb7563d215717b1e0b7ceaad9f080b3",
+	"sid" : NumberInt("150104013")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715143"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "滕芳",
+	"password" : "5bc6845c8e7c35e6176a471f862cd506c93d06f903d3c5d8b1ad338c7998f2b5",
+	"sid" : NumberInt("150104011")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715142"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰梅香",
+	"password" : "7a3a704d46d5f0771000d00e738d8adf465e2cbb54b972e7ad829a73b39d81d1",
+	"sid" : NumberInt("150104010")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514a"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "全忠娇",
+	"password" : "8135b5b880d5ec62f33467c9e2d6f4a4286512070cf61df1dda464ecf057051f",
+	"sid" : NumberInt("150104018")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715146"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "张明梦",
+	"password" : "418be7ed779f677a53712786037eba6d799d99b9408202969f7ff0df5423aa89",
+	"sid" : NumberInt("150104014")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715149"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "刘宏艳",
+	"password" : "4225c7950379867f5aa27df13bce083dc7630bb2c3f74fb4ba4ce5a52b08eebb",
+	"sid" : NumberInt("150104017")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715148"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "杨凌迦",
+	"password" : "910fd0f54c945e1debb87a400bde70129d465e693ec4a03331ebb3a0ee8e37af",
+	"sid" : NumberInt("150104016")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715147"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "张小蝶",
+	"password" : "9479f91239fe52d71fa6d84c67e3e16aabd43f3da3f77e50fccbe0eea8066074",
+	"sid" : NumberInt("150104015")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514d"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "杨江霞",
+	"password" : "b69de75e616c8692ebbde1c1c1906d86576f7598d9bf9f07b284381ac25559b9",
+	"sid" : NumberInt("150104021")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514b"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "陈显",
+	"password" : "2a6b9e2a08389013f3365397158c08653f20358e139f7687b4b089b4d75982dd",
+	"sid" : NumberInt("150104019")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715150"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "陈育帆",
+	"password" : "bde903fdd87bcc26df69f9108d77dfa34ff0b9ec2ee298ec837a962e3c7d8d52",
+	"sid" : NumberInt("150104024")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514e"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "李艰",
+	"password" : "8f40491e7e455bba41857559f5be9069d7c534f5da9e327818691795782a0f49",
+	"sid" : NumberInt("150104022")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514c"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "钟山",
+	"password" : "d8c49add94a05013b4d7624a0ec5ffdd95678945e48feb7e7cfe92c9e82858e0",
+	"sid" : NumberInt("150104020")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715152"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "李银姣",
+	"password" : "257840aafcd6df48bbf648679a2af7695967ff222b2cee6de7ee10ed52eba283",
+	"sid" : NumberInt("150104026")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071514f"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "田雪",
+	"password" : "c96e78f5bc8c1f32cf140c9df03030de5a9d17133ecf191ee392f9451d82235e",
+	"sid" : NumberInt("150104023")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715155"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "孙明亮",
+	"password" : "5b0ac1be0a8e4e16422306894f9b16c3f0e297ba41a17167bdc0639fda6b71dc",
+	"sid" : NumberInt("150104029")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715153"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "刘媛元",
+	"password" : "d6b670160440bb1a3e6d6094ed0ba31d28263872dac43f71721049d54cf10161",
+	"sid" : NumberInt("150104027")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715151"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "唐元群",
+	"password" : "ad47ad0dd9ef18fc3b8f3d904b05121355803d43473dd7cfdc2a068ee8295538",
+	"sid" : NumberInt("150104025")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515a"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "龙  武",
+	"password" : "d7a8a4e373cd0531be4a573b72a5b25eb658cb22dfae6345f10bcb92b2a9de75",
+	"sid" : NumberInt("150104034")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715154"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "丁永雄",
+	"password" : "a3bca738d20e4fcae9e7dd9b153c5401c2ae96bc7a40c776d45dce2d07df0bf7",
+	"sid" : NumberInt("150104028")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715161"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "潘  婷",
+	"password" : "7d44bbc76c7ad440b1c007aefde6c4f086e4af75e159163a8e5f6b48476f198d",
+	"sid" : NumberInt("150104041")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515c"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "李启英",
+	"password" : "070d1e362977b2c976021cdd56300ac4c6fa4c8a19468df01e421953400aee6d",
+	"sid" : NumberInt("150104036")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715157"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "李万山",
+	"password" : "28056c2b72f5f0587e79917f9b39d1fc509f095a0aac87c46d6511cd735602f7",
+	"sid" : NumberInt("150104031")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071515f"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "梁高伟",
+	"password" : "d3941c9e42fc8490541beac7461b2856b1ef5618ff806ee7043ad59d17e41867",
+	"sid" : NumberInt("150104039")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715166"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "冯子鑫",
+	"password" : "0c155ced92e80c46a0ff706427021dc69f984d0b463b4f87ee781d8208b87246",
+	"sid" : NumberInt("150104046")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e7071516b"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "邰雪倩",
+	"password" : "da56c8d6c16af8fe3af1d740e417f13a265d7288003cd76abad50bc96bbbf238",
+	"sid" : NumberInt("150104051")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5b83ea0270bbe23e70715164"),
+	"courses" : [ ],
+	"grade" : NumberInt("1"),
+	"name" : "刘文龙",
+	"password" : "b1e19a7425dd32adeee578abedad6449c57545e4c6d49d154f3f1deb0f4e7f9e",
+	"sid" : NumberInt("150104044")
+},
